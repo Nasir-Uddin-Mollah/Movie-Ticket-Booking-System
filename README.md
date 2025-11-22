@@ -109,8 +109,8 @@ JWT input fields will appear under Authorize 🔒.
 
 
 ## ✔️ Extra Notes
--Prevents double booking
--Cancelling booking frees the seat
--Uses permission classes for secure routes
--Clean ViewSets with action decorators
--Easy to scale
+- Prevents double booking
+- Cancelling booking frees the seat
+- Uses permission classes for secure routes
+- Clean ViewSets with action decorators
+- Easy to scale
